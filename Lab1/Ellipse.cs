@@ -10,7 +10,7 @@ namespace Lab1
         {
         }
 
-        public override void drawColorShape(Graphics g)
+        public override void drawColoredShape(Graphics g)
         {
             Pen pen = new Pen(color);
             int x = Math.Min(oldX, newX);

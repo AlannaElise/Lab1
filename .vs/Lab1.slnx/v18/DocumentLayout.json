@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\alann\\source\\repos\\Lab1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|c:\\users\\alann\\source\\repos\\lab1\\lab1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|c:\\users\\alann\\source\\repos\\lab1\\lab1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|c:\\users\\alann\\source\\repos\\lab1\\lab1\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,6 +17,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|c:\\users\\alann\\source\\repos\\lab1\\lab1\\ellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\ellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|c:\\users\\alann\\source\\repos\\lab1\\lab1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|C:\\Users\\alann\\source\\repos\\Lab1\\lab1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C38379F-6B46-EF58-4F1F-EC66EF1F7497}|Lab1\\Lab1.csproj|solutionrelative:lab1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\alann\\source\\repos\\Lab1\\Lab1\\Form1.cs",
               "RelativeDocumentMoniker": "Lab1\\Form1.cs",
               "ToolTip": "C:\\Users\\alann\\source\\repos\\Lab1\\Lab1\\Form1.cs",
               "RelativeToolTip": "Lab1\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-18T13:39:12.756Z",
               "IsPinned": true,
@@ -56,67 +56,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Ellipse.cs",
               "DocumentMoniker": "C:\\Users\\alann\\source\\repos\\Lab1\\Lab1\\Ellipse.cs",
               "RelativeDocumentMoniker": "Lab1\\Ellipse.cs",
               "ToolTip": "C:\\Users\\alann\\source\\repos\\Lab1\\Lab1\\Ellipse.cs",
               "RelativeToolTip": "Lab1\\Ellipse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-18T16:17:39.539Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "C:\\Users\\alann\\source\\repos\\Lab1\\Lab1\\Rectangle.cs",
               "RelativeDocumentMoniker": "Lab1\\Rectangle.cs",
               "ToolTip": "C:\\Users\\alann\\source\\repos\\Lab1\\Lab1\\Rectangle.cs",
               "RelativeToolTip": "Lab1\\Rectangle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-18T16:15:59.389Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Line.cs",
               "DocumentMoniker": "C:\\Users\\alann\\source\\repos\\Lab1\\Lab1\\Line.cs",
               "RelativeDocumentMoniker": "Lab1\\Line.cs",
               "ToolTip": "C:\\Users\\alann\\source\\repos\\Lab1\\Lab1\\Line.cs",
               "RelativeToolTip": "Lab1\\Line.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-18T16:11:49.437Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Shape.cs",
               "DocumentMoniker": "C:\\Users\\alann\\source\\repos\\Lab1\\Lab1\\Shape.cs",
               "RelativeDocumentMoniker": "Lab1\\Shape.cs",
               "ToolTip": "C:\\Users\\alann\\source\\repos\\Lab1\\Lab1\\Shape.cs",
               "RelativeToolTip": "Lab1\\Shape.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-18T16:07:29.682Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\alann\\source\\repos\\Lab1\\Lab1\\Form1.cs",
               "RelativeDocumentMoniker": "Lab1\\Form1.cs",
               "ToolTip": "C:\\Users\\alann\\source\\repos\\Lab1\\Lab1\\Form1.cs [Design]",
               "RelativeToolTip": "Lab1\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T14:39:08.46Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-01-18T14:39:08.46Z"
             }
           ]
         }

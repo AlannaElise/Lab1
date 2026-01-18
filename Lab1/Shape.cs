@@ -19,6 +19,6 @@ namespace Lab1
             color = c;
         }
 
-        public abstract void drawColorShape(Graphics g);
+        public abstract void drawColoredShape(Graphics g);
     }
 }

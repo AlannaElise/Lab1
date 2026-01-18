@@ -50,7 +50,7 @@ namespace Lab1
             else
                 shape = new Ellipse(oldX, oldY, e.X, e.Y, Color.BlueViolet);
 
-            shape.drawColorShape(gMap);
+            shape.drawColoredShape(gMap);
             panel1.BackgroundImage = map;
         }
 
